@@ -900,17 +900,18 @@ html {
         height: 77px;
         margin-right: 2.6vw;
         margin-left: 2vw;
-        border-radius: 36px;
+        border-radius: 50px;
     }
     
     .svg-button {
-        margin-right: 1.41vw;
+        margin-right: 1.2vw;
+        margin-left: 10px;
         width: 40px;
     }
     
     .all-market {
         font-size: 0.875em;
-        width: 145px;
+        width: 140px;
     }
     
     .info-title {
@@ -1105,10 +1106,14 @@ html {
     
     .headers {
         padding-top: 250px;
-        margin-left: 8.6vw;
+        margin-left: 8.8vw;
         font-size: 5em;
     }
     
+    .headers-findcontact {
+        margin-right: 84px;
+    }
+
     .description-info {
         font-size: 1.5em;
         margin-left: 8.6vw;
