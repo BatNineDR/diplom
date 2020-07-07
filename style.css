@@ -302,6 +302,7 @@ html {
     margin-bottom: 15px;
     margin-left: 6.25vw;
     border-radius: 20px;
+    text-align: center;
 }
 
 .svg-button {
@@ -312,6 +313,7 @@ html {
 .all-market {
     font-size: 1em;
     width: 78px;
+    margin-top: 6px;
 }
 
 .info-title {
@@ -593,6 +595,7 @@ html {
     margin-bottom: 15px;
     margin-right: 4vw;
     border-radius: 36px;
+    text-align: center;
 }
 
 .svg-button {
@@ -603,6 +606,7 @@ html {
 .all-market {
     font-size: 1.4em;
     width: 141px;
+    margin-top: 20px;
 }
 
 .info-title {
@@ -901,17 +905,19 @@ html {
         margin-right: 2.6vw;
         margin-left: 2vw;
         border-radius: 50px;
+        text-align: center;
     }
     
     .svg-button {
         margin-right: 1.2vw;
-        margin-left: 10px;
+        margin-left: 15px;
         width: 40px;
     }
     
     .all-market {
         font-size: 0.875em;
         width: 140px;
+        margin-top: 20px;
     }
     
     .info-title {
